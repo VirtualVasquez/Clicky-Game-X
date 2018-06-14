@@ -3,16 +3,16 @@ import './App.css';
 import characters from './characters.json' //dogs
 import Game from './components/Game' //Wrapper
 import Nav from './components/Nav' // Navpills
-import Header from '.components/Header' //Title
+import Header from './components/Header' //Title
 import ClickItem from './components/ClickItem' //DogCard
 
 class App extends Component {
 	state = {
-		message: "Click an image to begin",
+		message: "Click an image to begin!",
 		topScore: 0,
 		curScore: 0,
-		reploids: reploids,
-		unselectedReploids: reploids
+		characters: characters,
+		unselectedCharacters: characters
 	}
 
 	componentDidMount() {
@@ -34,8 +34,8 @@ class App extends Component {
 				message: "You guessed incorrectly!",
 				topScore: (this.state.curScore >  this.state.topScore) ? this.state.curScore : this.state.topScore,
 				curScore: 0,
-				reploids: reploids,
-				unselectedReploids: reploids
+				characters: characters,
+				unselectedCharacters: characters
 			});
 		}
 		else {
@@ -50,7 +50,7 @@ class App extends Component {
 			});
 		}
 
-		this.shuffleArray(reploids);
+		this.shuffleArray(characters);
 	};
 
 	render() {
@@ -63,13 +63,13 @@ class App extends Component {
 				/>
 				<Header />
 				{
-					this.state.charaters.map(character => (
+					this.state.characters.map(character => (
 						<ClickItem
 							reploid={character.reploid}
 							image={character.image}
 							selectCharacter={this.selectCharacter}
 							curScore={this.state.curScore}
-							/>
+						/>
 						))
 				}
 			</Game>

@@ -1,50 +1,50 @@
 [
 	{
 		"reploid": "ArmoredArmadillo",
-		"image": "./assets/images/ArmoredArmadillo.png",
+		"image": "./assets/images/ArmoredArmadillo.png"
 	},
 	{
 		"reploid": "BoomerangKuwanger",
-		"image": "./assets/images/BoomerangKuwanger.jpg",
+		"image": "./assets/images/BoomerangKuwanger.jpg"
 	},
 	{
 		"reploid": "ChillPenguin",
-		"image": "./assets/images/ChillPenguin.jpg",
+		"image": "./assets/images/ChillPenguin.jpg"
 	},
 	{
 		"reploid": "FlameMammoth",
-		"image": "./assets/images/FlameMammoth.jpg",
+		"image": "./assets/images/FlameMammoth.jpg"
 	},
 	{
 		"reploid": "LaunchOctopus",
-		"image": "./assets/images/LaunchOctopus.jpg",
+		"image": "./assets/images/LaunchOctopus.jpg"
 	},
 	{
 		"reploid": "MegaManX",
-		"image": "./assets/images/MegaManX.png",
+		"image": "./assets/images/MegaManX.png"
 	},
 	{
 		"reploid": "Sigma",
-		"image": "./assets/images/Sigma.jpg",
+		"image": "./assets/images/Sigma.jpg"
 	},
 	{
 		"reploid": "SparkMandrill",
-		"image": "./assets/images/SparkMandrill.png",
+		"image": "./assets/images/SparkMandrill.png"
 	},
 	{
 		"reploid": "StingChameleon",
-		"image": "./assets/images/StingChameleon.jpg",
+		"image": "./assets/images/StingChameleon.jpg"
 	},
 	{
 		"reploid": "StormEagle",
-		"image": "./assets/images/StormEagle.jpg",
+		"image": "./assets/images/StormEagle.jpg"
 	},
 	{
 		"reploid": "Vile",
-		"image": "./assets/images/Vile.png",
+		"image": "./assets/images/Vile.png"
 	},			
 	{
 		"reploid": "Zero",
-		"image": "./assets/images/Zero.jpg",
+		"image": "./assets/images/Zero.jpg"
 	}							
 ]
