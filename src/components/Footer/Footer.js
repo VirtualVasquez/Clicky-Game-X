@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = props => (
 	<footer className="footer">
 		<div className="bottom">
-			"Clicky Game!"
+			<h4>"Clicky Game X"</h4>
 		</div>
 	</footer>
 );

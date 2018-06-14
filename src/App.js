@@ -5,6 +5,7 @@ import Game from './components/Game' //Wrapper
 import Nav from './components/Nav' // Navpills
 import Header from './components/Header' //Title
 import ClickItem from './components/ClickItem' //DogCard
+import Footer from './components/Footer'
 
 class App extends Component {
 	state = {
@@ -72,6 +73,7 @@ class App extends Component {
 						/>
 						))
 				}
+				<Footer />
 			</Game>
 		);
 	}

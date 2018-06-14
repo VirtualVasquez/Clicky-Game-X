@@ -1,50 +1,50 @@
 [
 	{
 		"reploid": "ArmoredArmadillo",
-		"image": "./assets/images/ArmoredArmadillo.png"
+		"image": "https://vignette.wikia.nocookie.net/megaman/images/e/e8/MHXArmoredArmadillo.png/revision/latest?cb=20121209231216"
 	},
 	{
 		"reploid": "BoomerangKuwanger",
-		"image": "./assets/images/BoomerangKuwanger.jpg"
+		"image": "https://vignette.wikia.nocookie.net/megaman/images/5/5f/MHXBoomerKuwanger.jpg/revision/latest?cb=20100616133514"
 	},
 	{
 		"reploid": "ChillPenguin",
-		"image": "./assets/images/ChillPenguin.jpg"
+		"image": "https://vignette.wikia.nocookie.net/megaman/images/f/f1/MHXChillPenguin.jpg/revision/latest?cb=20100616141810"
 	},
 	{
 		"reploid": "FlameMammoth",
-		"image": "./assets/images/FlameMammoth.jpg"
+		"image": "https://vignette.wikia.nocookie.net/megaman/images/1/10/MHXFlameMammoth.jpg/revision/latest?cb=20100616142730"
 	},
 	{
 		"reploid": "LaunchOctopus",
-		"image": "./assets/images/LaunchOctopus.jpg"
+		"image": "https://vignette.wikia.nocookie.net/megaman/images/c/ca/MHXLaunchOctopus.jpg/revision/latest?cb=20100616143001"
 	},
 	{
 		"reploid": "MegaManX",
-		"image": "./assets/images/MegaManX.png"
+		"image": "https://vignette.wikia.nocookie.net/capcomdatabase/images/3/3e/MMXMHX.png/revision/latest?cb=20110508183107"
 	},
 	{
 		"reploid": "Sigma",
-		"image": "./assets/images/Sigma.jpg"
+		"image": "https://vignette.wikia.nocookie.net/megaman/images/4/4f/MHXSigma.jpg/revision/latest/scale-to-width-down/350?cb=20151107160501"
 	},
 	{
 		"reploid": "SparkMandrill",
-		"image": "./assets/images/SparkMandrill.png"
+		"image": "https://vignette.wikia.nocookie.net/megaman/images/3/34/Spark_Mandrill_Transparent.png/revision/latest?cb=20121213010458"
 	},
 	{
 		"reploid": "StingChameleon",
-		"image": "./assets/images/StingChameleon.jpg"
+		"image": "https://vignette.wikia.nocookie.net/megaman/images/2/26/MHXStingChameleon.jpg/revision/latest?cb=20100616143338"
 	},
 	{
 		"reploid": "StormEagle",
-		"image": "./assets/images/StormEagle.jpg"
+		"image": "https://vignette.wikia.nocookie.net/megaman/images/4/47/MHXStormEagle.jpg/revision/latest?cb=20100616143538"
 	},
 	{
 		"reploid": "Vile",
-		"image": "./assets/images/Vile.png"
+		"image": "https://vignette.wikia.nocookie.net/megamanfanon/images/4/4f/Mhx_vilestand.png/revision/latest?cb=20140913031510"
 	},			
 	{
 		"reploid": "Zero",
-		"image": "./assets/images/Zero.jpg"
+		"image": "https://vignette.wikia.nocookie.net/megaman/images/d/dc/Mhx_zero.jpg/revision/latest?cb=20151108055048"
 	}							
 ]
